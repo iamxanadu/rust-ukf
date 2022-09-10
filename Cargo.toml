@@ -1,5 +1,5 @@
 [package]
-name = "ukf"
+name = "rust-ukf"
 version = "0.1.0"
 edition = "2021"
 authors = ["Josef Biberstein"]
@@ -9,7 +9,7 @@ repository = "https://github.com/iamxanadu/rust-ukf.git"
 description = """
 An implementation of the unscented Kalman filter in rust which supports multiple different measurement updates.
 """
-keywords = ["unscented", "Kalman", "filter", "algorithm"]
+keywords = ["unscented", "Kalman", "filter", "algorithm", "ukf"]
 categories = ["algorithms"]
 include = ["src/*", "scripts/*", "examples/*", "LICENSE", "README.md"]
 
